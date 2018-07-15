@@ -1,0 +1,8 @@
+.idea/
+.mvn/
+target/
+mvnw*
+*iml
+*png
+*jpg
+*jpeg
